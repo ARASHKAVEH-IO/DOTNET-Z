@@ -1,0 +1,15 @@
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\bin\Debug\net9.0\DOTNET-Z.exe
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\bin\Debug\net9.0\DOTNET-Z.deps.json
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\bin\Debug\net9.0\DOTNET-Z.runtimeconfig.json
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\bin\Debug\net9.0\DOTNET-Z.dll
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\bin\Debug\net9.0\DOTNET-Z.pdb
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.AssemblyInfoInputs.cache
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.AssemblyInfo.cs
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.csproj.CoreCompileInputs.cache
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.sourcelink.json
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.dll
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\refint\DOTNET-Z.dll
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.pdb
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\DOTNET-Z.genruntimeconfig.cache
+C:\Users\arash\OneDrive\Documents\GitHub\DOTNET-Z\obj\Debug\net9.0\ref\DOTNET-Z.dll
